@@ -1,7 +1,7 @@
 label,sublabel,description,styles,bgcolor
-燃やすごみ,,,img/moyasu.svg,#ea3b13
-ビン・ガラス類,,,img/bin02.svg,#7#13c4e1
-金属類,,,img/shigen.svg,#27a047
-プラスチック製容器包装,,,img/shigen.svg,#bbe400
-紙製容器包装・紙パック,,,img/shigen.svg,#ff8b53
-新聞紙・雑誌・ダンボール,,,img/shigen.svg,##b479e2
+燃やすごみ,,,,#ea3b13
+ビン・ガラス類,,,,#7#13c4e1
+金属類,,,,#27a047
+プラスチック製容器包装,,,,#bbe400
+紙製容器包装・紙パック,,,,#ff8b53
+新聞紙・雑誌・ダンボール,,,,##b479e2
