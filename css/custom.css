@@ -52,6 +52,52 @@ a.accordion-toggle-top{
 	font-weight: bold;
 }
 
+/* accordion4 - 追加
+ * Added by:shinshin86
+ */
+#accordion4
+a.accordion-toggle-top{
+    margin: 0;
+    text-align: left;
+    font-size: 25px;
+    margin: 15px 0 15px 15px;
+    
+}
+
+#accordion4 h2{
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+#accordion4 #cfi{
+    border-top: 1px solid black;
+}
+
+#accordion4 #cfk{
+    border-top: 1px solid black;
+}
+
+#accordion4 h3{
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+#accordion4 #caption{
+    font-size: 12px;
+    color: #7F7F7F;
+    margin-top: 30px;
+}
+#accordion4 #caption h4{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#help2{
+    margin-left: 5px;
+}
+/* 追加 - 終了 */
+
 
 a.accordion-toggle-top{
 	color: #000000;
