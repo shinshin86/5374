@@ -1,6 +1,6 @@
 ## 使い方
 
-[5374 for 稲敷市(江戸崎地区)](http://YOUR_CITY.domain/ )について説明します。
+[5374 for 稲敷市](http://shinshin86.github.io/5374/)について説明します。
 
 * **色でゴミのジャンルを表示**: 一番近いゴミの日とジャンルを上から順に表示しています。
 
@@ -22,6 +22,6 @@
 本アプリ及びソースコードの著作権はCode for Kanazawaに帰属します。
 但し、このソースコードは[MPL](http://www.mozilla.org/MPL/2.0/)のもと配布されています。MPLに従えば、どなたでも利用、改変、及び再配布が可能です。
 
-## Contributers in 稲敷市(江戸崎地区)
+## Contributers in 稲敷市
 
 [shinshin86](http://github.com/shinshin86)
